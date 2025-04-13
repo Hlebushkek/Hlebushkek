@@ -25,12 +25,6 @@ I'm a software engineer with 2 years of experience building iOS/macOS applicatio
 - `Ultrasound IoT`: Bluetooth and MQTT-based real-time embedded visualization using Rust
 - `Chess Engine`: 3D Chess with custom C/C++ Engine based on OpenGL and platform specific shaders (GLSL & Metal)
 
-## 📚 Education & Certifications
-
-- B.S. in Information Systems & Technology – Igor Sikorsky Kyiv Polytechnic Institute (2024)
-- Meta iOS Developer – Coursera (2024)
-- EPAM iOS Program Graduate – EPAM, Ukraine (2021)
-
 📫 [LinkedIn](https://www.linkedin.com/in/hlib-sobolevskyi/) | [GitHub](https://github.com/Hlebushkek)
 
 ---
